@@ -1,11 +1,11 @@
 {
-  "name": "frontend",
+  "name": "dirty_app_boy",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "webpack --mode=development --watch"
+    "start": "webpack --watch --mode=development"
   },
   "keywords": [],
   "author": "",
